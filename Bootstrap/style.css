@@ -92,3 +92,8 @@ body{
 .followers__compartido i{
     background-color: #4d177c;
 }
+
+.prueba{
+    background-color: coral;
+    font-size: 30px;
+}
