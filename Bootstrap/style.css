@@ -96,4 +96,10 @@ body{
 .prueba{
     background-color: coral;
     font-size: 30px;
+
+}
+
+.prueba2{
+    background-color: #f72585;
+    font-size: 1em;
 }
